@@ -6,5 +6,3 @@ PlantUML has a public proxy service that renders UML into several different form
 ![SVG Example](http://www.plantuml.com/plantuml/proxy?fmt=svg&src=https://raw.github.com/wandns/examples/master/github-uml-diagram/example.puml)
 
 ![PNG Example](http://www.plantuml.com/plantuml/proxy?fmt=png&src=https://raw.github.com/wandns/examples/master/github-uml-diagram/example.puml)
-
-![Text Example](http://www.plantuml.com/plantuml/proxy?fmt=txt&src=https://raw.github.com/wandns/examples/master/github-uml-diagram/example.puml)
